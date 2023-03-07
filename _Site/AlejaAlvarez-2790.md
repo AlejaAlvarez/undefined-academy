@@ -13,3 +13,4 @@ ________________________________________________________________________________
 ### Me puedes encontrar 🌎:
 - [Twitter](https://twitter.com/Aleja_Alvarezz1)
 - [Linkedin](https://www.linkedin.com/in/alejandra-alvarez-serna-786461196/)
+- [Perfil GitHub](https://github.com/AlejaAlvarez)
